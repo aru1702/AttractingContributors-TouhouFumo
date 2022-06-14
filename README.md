@@ -10,3 +10,6 @@
 
 # （Example) My favorite sushi
 鮭　サーモン Chum</br>
+- エビ寿司
+- いか寿司
+- ほそまき寿司
