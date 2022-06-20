@@ -53,7 +53,9 @@ Sometimes there are two or more person choosing the same character, I will write
 
 # List of your favorite Touhou character
 - 👆古明地こいし (Koishi Komeiji)
+
 ![](https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/312px-Th155Koishi.png) ![](https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/koishi.jpg)
+
 - Alice Margatroid (アリス・マーガトロイド)
 - レミリア・スカーレット (Remilia Scarlet) **(2x)**
 - Yuyuko Saigoji (西行寺幽々子) (from Perfect Cherry Blossom?)
