@@ -118,6 +118,6 @@ Sometimes there are two or more person choosing the same character, I will write
 - Making the Crossover Wiki (https://makingthecrossover.fandom.com/wiki/)
 - PNG wing (https://www.pngwing.com)
 - Yukkuri reimu (https://dic.pixiv.net/a/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E9%9C%8A%E5%A4%A2)
-- Parsee fumofumo (https://twitter.com/yuhu198275/status/1331520289411276800)
+- Parsee fumofumo custom (https://twitter.com/Punderfullll/status/1331403636770033664)
 - Fumofumo plushies images (https://www.gift-gift.jp/nui/toho.html)
 - Yukkuri plushies images (https://dengekionline.com/articles/111091/)
