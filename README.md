@@ -57,21 +57,61 @@ Sometimes there are two or more person choosing the same character, I will write
 <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/312px-Th155Koishi.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/koishi.jpg" width="250">
 
 - Alice Margatroid (アリス・マーガトロイド)
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/275px-Th105Alice.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/alice.jpg" width="250">
+
 - レミリア・スカーレット (Remilia Scarlet) **(2x)**
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/275px-Th105Remilia.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/remilia.jpg" width="250">
+
 - Yuyuko Saigoji (西行寺幽々子) (from Perfect Cherry Blossom?)
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/200px-Th105Yuyuko.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/yuyuko.jpg" width="250">
+
 - Kirisame Marisa (霧雨魔理沙) (Yukkuri Marisa is also cute)
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/200px-Th075marisa01.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/marisa.jpg" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/marisa-yukkuri.jpg" width="250">
+
 - Mizuhashi Parsee (水橋 パルスィ)
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/300px-TPW2nd_Parsee.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/parsee.jpg" width="250">
+
 - Yamada (Eiki/Yamaxanadu) (四季映姫・ヤマザナドゥ) --> やまダ！
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/De_Shikieiki.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/yama.jpg" width="250">
+
 - Reimu Hakurei (博麗霊夢) **(2x)**
-- （ゆっくり）霊夢 (Reimu Hakurei yukkuri ver.) 
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/Reimu_Hakurei_Urban_Legend_in_Limbo.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/reimu.jpg" width="250">
+
+- （ゆっくり）霊夢 (Reimu Hakurei yukkuri ver.)
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/yukkuri-reimu-621568_p0_square1200.jpg" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/reimu-yukkuri.jpg" width="250">
+
 - Cirno ⑨ (チルノ) **(2x)**
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/cirno-pngwing.com.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/cirno.jpg" width="250">
+
 - Reisen Udongein Inaba (鈴仙・優曇華院・イナバ)
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/283px-Th155Reisen.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/reisen.jpg" width="250">
 
 # Unlisted but my favorite as well
 - Satori Komeiji (古明地さとり)
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/Satorin.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/satori.jpg" width="250">
+
 - Hata no Kokoro (秦こころ)
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/279px-Th155Kokoro.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/kokoro.jpg" width="250">
+
 - Youmu Konpaku (魂魄妖夢)
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/De_Youmu.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/youmu.jpg" width="250">
+
 - Flandre Scarlet (フランドール・スカーレット)
+
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/flandre-scarlet-pngwing.com.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/flandre.jpg" width="250">
 
 # Images special thanks to
 - Touhou fandom website and wiki
