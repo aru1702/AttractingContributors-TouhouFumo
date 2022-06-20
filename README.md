@@ -74,7 +74,7 @@ Sometimes there are two or more person choosing the same character, I will write
 
 - Mizuhashi Parsee (水橋 パルスィ)
 
-<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/300px-TPW2nd_Parsee.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/parsee.jpg" width="250">
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/300px-TPW2nd_Parsee~2.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/parsee~2.jpg" width="250">
 
 - Yamada (Eiki/Yamaxanadu) (四季映姫・ヤマザナドゥ) --> やまダ！
 
