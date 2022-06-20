@@ -54,7 +54,7 @@ Sometimes there are two or more person choosing the same character, I will write
 # List of your favorite Touhou character
 - 👆古明地こいし (Koishi Komeiji)
 
-![](https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/312px-Th155Koishi.png | width=100) ![](https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/koishi.jpg | width=100)
+<img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/character/312px-Th155Koishi.png" width="250"> <img src="https://github.com/aru1702/AttractingContributors-TouhouFumo/blob/main/pictures/favorite/fumos/koishi.jpg" width="250">
 
 - Alice Margatroid (アリス・マーガトロイド)
 - レミリア・スカーレット (Remilia Scarlet) **(2x)**
