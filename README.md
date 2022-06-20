@@ -53,19 +53,28 @@ Sometimes there are two or more person choosing the same character, I will write
 
 # List of your favorite Touhou character
 - 👆古明地こいし (Koishi Komeiji)
-- Alice Margatroid
+- Alice Margatroid (アリス・マーガトロイド)
 - レミリア・スカーレット (Remilia Scarlet) **(2x)**
-- Yuyuko Saigoji (from Perfect Cherry Blossom?)
-- Kirisame Marisa (Yukkuri Marisa is also cute)
-- Mizuhashi Parsee
-- Yamada (Eiki/Yamaxanadu) --> やまダ！
-- Reimu Hakurei **(2x)**
-- xxxHolic (circle name?)
+- Yuyuko Saigoji (西行寺幽々子) (from Perfect Cherry Blossom?)
+- Kirisame Marisa (霧雨魔理沙) (Yukkuri Marisa is also cute)
+- Mizuhashi Parsee (水橋 パルスィ)
+- Yamada (Eiki/Yamaxanadu) (四季映姫・ヤマザナドゥ) --> やまダ！
+- Reimu Hakurei (博麗霊夢) **(2x)**
 - （ゆっくり）霊夢 (Reimu Hakurei yukkuri ver.) 
-- Cirno ⑨
-- Reisen Udongein Inaba
-- ⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨⑨
--
--
--
-etc...
+- Cirno ⑨ (チルノ) **(2x)**
+- Reisen Udongein Inaba (鈴仙・優曇華院・イナバ)
+
+# Unlisted but my favorite as well
+- Satori Komeiji (古明地さとり)
+- Hata no Kokoro (秦こころ)
+- Youmu Konpaku (魂魄妖夢)
+- Flandre Scarlet (フランドール・スカーレット)
+
+# Images special thanks to
+- Touhou fandom website and wiki
+- Making the Crossover Wiki (https://makingthecrossover.fandom.com/wiki/)
+- PNG wing (https://www.pngwing.com)
+- Yukkuri reimu (https://dic.pixiv.net/a/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E9%9C%8A%E5%A4%A2)
+- Parsee fumofumo (https://twitter.com/yuhu198275/status/1331520289411276800)
+- Fumofumo plushies images (https://www.gift-gift.jp/nui/toho.html)
+- Yukkuri plushies images (https://dengekionline.com/articles/111091/)
